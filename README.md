@@ -1,6 +1,6 @@
 
 # 광질의 계단
-# 혹시 이미지 어디있을까요?
+# 혹시 필요한 이미지 있으시면 설명 이랑 올려주시면 수정해서 올려드릴게요
 
 참조 링크 https://github.com/Hu-ni/Infinity-Of-Stairs
 
